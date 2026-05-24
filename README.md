@@ -42,6 +42,8 @@ The dataset consists of approximately 97,000 records and includes the following 
 * **Car_Age** – Age of the vehicle
 * **battery_capacity_kWh** – Battery capacity for electric vehicles
 
+  
+
 This dataset was analyzed using SQL, Excel, and Tableau to identify pricing trends, popular vehicle models, mileage impact, and regional market patterns in the Indian used car industry.
 
 
